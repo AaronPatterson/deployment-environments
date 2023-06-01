@@ -34,7 +34,7 @@
   "resources": [
     {
       "type": "Microsoft.Resources/deployments",
-      "apiVersion": "2021-04-01",
+      "apiVersion": "2022-09-01",
       "name": "linkedTemplate1",
       "properties": {
         "mode": "Incremental",
@@ -59,7 +59,7 @@
     },
     {
       "type": "Microsoft.Resources/deployments",
-      "apiVersion": "2021-04-01",
+      "apiVersion": "2022-09-01",
       "name": "linkedTemplate2",
       "properties": {
         "mode": "Incremental",
